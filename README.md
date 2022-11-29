@@ -14,26 +14,31 @@ Summary Statistics
 _______________________________________________________________________________________
 
 Number of Mice per Treatment Bar Graph
+
 ![image](https://github.com/oas95/matplotlib-challenge/blob/main/Pymaceuticals/images/NumMice_perTreatment.png)
 
 _______________________________________________________________________________________
 
 Gender Distribution of Mice Pie Graph
+
 ![image](https://github.com/oas95/matplotlib-challenge/blob/main/Pymaceuticals/images/Gender_Distribution.png)
 
 _______________________________________________________________________________________
 
 Quartiles and Boxplot of Mice per Treatment
+
 ![image](https://github.com/oas95/matplotlib-challenge/blob/main/Pymaceuticals/images/Quartilespng.png) 
 ![image](https://github.com/oas95/matplotlib-challenge/blob/main/Pymaceuticals/images/BoxPlot.png)
 
 _______________________________________________________________________________________
 
 Line Graph and Scatterplot (Weight vs Average Tumor Size)
+
 ![image](https://github.com/oas95/matplotlib-challenge/blob/main/Pymaceuticals/images/Lineplot.png)
 ![image](https://github.com/oas95/matplotlib-challenge/blob/main/Pymaceuticals/images/Scatterplot.png)
 
 _______________________________________________________________________________________
 
 Linear Regression (Weight vs Average Tumor Size)
+
 ![image](https://github.com/oas95/matplotlib-challenge/blob/main/Pymaceuticals/images/LinearRegression.png)
